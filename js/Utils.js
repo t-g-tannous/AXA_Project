@@ -1,6 +1,9 @@
 function openDocument(url)
 {
-var url="http://google.com";
+
 var test="1234";
+
+var url="http://google.com/demo1234";
+
 window.open(url);
 }
